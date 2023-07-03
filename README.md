@@ -1,3 +1,5 @@
+# Hi! My name is Milind Sharma
+
 # 💫 About Me:
 🔭 I’m currently working on building a chat application.<br>👯 I’m looking to collaborate on building web applications.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about about data structures and algorithms.
 
