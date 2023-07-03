@@ -14,8 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milindsharma7&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milindsharma7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🎯 Coding Status:
-![Codeforces](https://run.kaist.ac.kr/badges/codeforces/Milind_Sharma.svg) ![AtCoder](https://run.kaist.ac.kr/badges/atcoder/milind_sharma.svg)
+# 🎯 Coding Stats:
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Milind_Sharma)](https://codeforces.com/profile/Milind_Sharma)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
