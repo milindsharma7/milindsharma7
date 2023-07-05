@@ -3,7 +3,7 @@
 
 <h2 align="center"> 💫 About Me: </h2>
 <div align="center">
-🔭 I’m currently working on MERN stack.<br>👯 I’m looking to collaborate on building web applications.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about about Data Structures and Algorithms.
+🔭 I’m currently working on building Web Apps.<br>👯 I’m looking to collaborate on building web applications.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about about Data Structures and Algorithms.
 </div>
 
 
