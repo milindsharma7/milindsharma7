@@ -1,7 +1,7 @@
 <h1 align="center"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />Hey there! I'm Milind Sharma</h1>
 
   
-<h2 align="center"> 💫 About Me: </h2>
+<h2 align="center"> 💫 About Me: </h2> 
 <div align="center"> 
 🔭 I’m currently working on building Web Apps.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about about Data Structures and Algorithms.</br>
     Check out some of my projects: </br>
